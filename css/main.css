@@ -1,4 +1,17 @@
+.head-container {
+  display: flex;
+  width: 100%
+  background-color: #fff;
+}
 
+.header-container {
+  margin: 0 auto;
+}
+
+.header-container img {
+  display: flex;
+  width: 100%;
+}
 
 /* ==========================================================================
    Author's custom styles
