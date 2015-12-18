@@ -13,6 +13,16 @@
   width: 100%;
 }
 
+.links-container {
+  display: flex;
+  width: 100%;
+  background-color: #fff;
+}
+
+.props_to_me {
+  margin-left: 2em;
+}
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
