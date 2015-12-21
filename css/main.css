@@ -16,11 +16,23 @@
 .links-container {
   display: flex;
   width: 100%;
+  margin: 0 auto;
   background-color: #fff;
+}
+
+.links-container img {
+  margin: 0 auto;
+  padding: 1em;
+  padding-bottom: 4em;
 }
 
 .props_to_me {
   margin-left: 2em;
+}
+
+.video {
+  margin: 0 auto;
+  padding-bottom: 4em;
 }
 
 /* ==========================================================================
